@@ -12,11 +12,11 @@ Para trabajar de manera sincrónica en las tareas, se recomienda utilizar Google
 
 1. Generar una llave SSH usando Git GUI
 
-(placeholder)
+![image](https://github.com/user-attachments/assets/5d338e52-85af-41ae-8681-196fc5520268)
 
 2. Agregar la llave SSH a Github
 
-(placeholder)
+![image](https://github.com/user-attachments/assets/7faa5f58-6379-418f-9e44-912b10dc780b)
 
 ## Visual Studio Code
 
